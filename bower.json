@@ -1,0 +1,25 @@
+{
+  "name": "strawpoll",
+  "description": "A simple js interface to the www.strawpoll.me api",
+  "main": "index.js",
+  "authors": [
+    "Stuart Bannerman"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "strawpoll"
+  ],
+  "homepage": "https://github.com/m3talstorm/strawpoll.js",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
+}

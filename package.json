@@ -1,0 +1,26 @@
+{
+  "name": "strawpoll",
+  "version": "0.0.1",
+  "description": "A simple js interface to the www.strawpoll.me api",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3talstorm/strawpoll.git"
+  },
+  "keywords": [
+    "node",
+    "strawpoll"
+  ],
+  "author": "Stuart Bannerman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m3talstorm/strawpoll/issues"
+  },
+  "homepage": "https://github.com/m3talstorm/strawpoll#readme",
+  "dependencies": {
+    "request-promise": "^4.1.1"
+  }
+}
