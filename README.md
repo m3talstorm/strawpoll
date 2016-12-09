@@ -1,3 +1,6 @@
+# Note: THis library works, but I need to the the 'strawpoll' name on NPM, this is in preparation for it.
+
+
 # strawpoll.js
 
 [![Build Status](https://travis-ci.org/m3talstorm/stawpoll.svg?branch=master)](https://travis-ci.org/m3talstorm/strawpoll) [![Downloads](https://img.shields.io/npm/dm/strawpoll.svg?style=flat)](https://www.npmjs.org/package/strawpoll) [![Npm Version](https://img.shields.io/npm/v/strawpoll.svg?style=flat)](https://www.npmjs.org/package/strawpoll) [![Node Version](https://img.shields.io/node/v/strawpoll.svg?style=flat)](https://www.npmjs.org/package/strawpoll) [![Issues](https://img.shields.io/github/issues/m3talstorm/strawpoll.svg?style=flat)](https://github.com/m3talstorm/strawpoll/issues)
