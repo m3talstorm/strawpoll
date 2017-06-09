@@ -1,5 +1,3 @@
-# Note: THis library works, but I need to the the 'strawpoll' name on NPM, this is in preparation for it.
-
 
 # strawpoll.js
 
@@ -10,7 +8,7 @@ A simple javascript interface/nodejs package to the www.strawpoll.me API.
 
 ## Install
 
-#### Node
+#### Node (Coming soon)
 
 ~~~ bash
 npm install strawpoll --save
